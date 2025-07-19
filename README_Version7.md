@@ -85,6 +85,12 @@ Descárgalas de [ambientCG](https://ambientcg.com/view?id=Rock055) o usa tus pro
 - Ajusta la luz y el color del suelo para experimentar.
 
 ---
+## 🧩 Resultado en video
+
+
+https://github.com/user-attachments/assets/df344e51-89ce-461f-ac74-4959df351d9c
+
+
 
 ## 👨‍💻 Inspirado en
 
